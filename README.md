@@ -1,2 +1,3 @@
-# diagrama-de-clases-de-Gesti-n-Acad-mica
-Ejercicio 2 , Unidad 4
+# Diagrama de Clases de Gestin Acadmica
+
+Ejercicio 2, Unidad 4
